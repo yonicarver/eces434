@@ -1,2 +1,2 @@
 ## ECES 434 - Applied Digital Signal Processing
-Fall Term (2019)
+Fall 2019-20
